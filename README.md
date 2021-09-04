@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/Her
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on software development
+🔭 I’m currently working as an Analyst
 
 🌱 I’m currently learning various aspects of Blockchain,Data Analytics and Full stack Web Development
 
 👯 I’m looking to collaborate on research papers related to core Computer Science
 
-💬 Ask me about anything on coding and machine learning,I will do my best to help you 
+💬 Feel free to ask me any queries specific to Computer and coding,I will do my best to help you 
 
-📫 Reach me @ manpreetkaur.codes@gmail.com
+📫 Reach me @ manpreetkaur.codes@gmail.com or Linkedin: https://www.linkedin.com/in/manpreet08/
