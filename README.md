@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on software development
+- 🔭 I’m currently working as Analyst 
 - 🌱 I’m currently learning various aspects of Blockchain,Systems,Data Analytics and Full stack Web Development 
 - 👯 I’m looking to collaborate on research papers pertaining to core Computer Science
-- 💬 Ask me about anything on coding and machine learning,I will do my best to help you
+- 💬 Ask me about anything related to computer science and coding,I will do my best to help you
 - 📫 How to reach me: manpreetkaur.codes@gmail.com
 - 😄 Pronouns: she/Her
 - ⚡ Fun fact: ...
