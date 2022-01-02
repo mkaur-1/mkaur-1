@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me: manpreetkaur.codes@gmail.com
 
-🔗 Reach me @ Linkedin: <i class="fab fa-linkedin-in"></i>https://www.linkedin.com/in/manpreet0000/
+🔗 Reach me @ Linkedin:https://www.linkedin.com/in/manpreet0000/
 
 😄 Pronouns: she/her
 
